@@ -1,1 +1,7 @@
 # Understanding-Inflation-in-India-A-Data-focused-analysis-of-Key-Economic-Indicators
+
+I started this project thinking of a simple idea, can inflation in India be predicted using common data. I chose crude oil prices, food prices and the exchange rate because when price rises of these factors, inflation also occurs.
+Oil prices made sense. India imports a lot of it. So if global oil prices go up, you’d think inflation would too. Sometimes that was true, but not always. There were times when oil spiked and inflation didn’t react much. Probably because of government subsidies or delays. That surprised me.
+Food prices had a stronger and quicker impact. When the food price index rose, inflation often followed. But not every time. Some months did not match. Maybe the government released food stocks or other prices dropped and balanced things out.
+The exchange rate was the weakest link here. In theory, a weaker rupee makes imports costlier, so inflation should go up. But in this data, it did not stand out much. Either the connection is more delayed or just smaller than expected.
+Overall, I did not expect a perfect model and I did not get one. But I learned that inflation does respond to some things more than others. This project helped me think less in theory and more in terms of what data actually shows. It’s not about getting the right answer — it’s about seeing what questions are worth asking next.
